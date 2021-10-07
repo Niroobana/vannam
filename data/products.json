@@ -1,0 +1,37 @@
+
+    [
+        {
+            "name" : "Pencil sketch A4",
+            "category" : "Pencil sketch",
+            "price" : "2000",
+            "artist" : "Inosha",
+            "description" : "Portrait drawing using pencil in A4",
+            "images" : [{
+                "public_id" : "samples/32-325559_flowers-most-creative-desktop-hd-wallpapers_l0qr6n",
+                "url" : "http://res.cloudinary.com/vannam/image/upload/v1633346297/samples/32-325559_flowers-most-creative-desktop-hd-wallpapers_l0qr6n.jpg"
+            }]
+        },
+    
+        {
+            "name" : "Pencil sketch A3",
+            "category" : "Pencil sketch",
+            "price" : "2000",
+            "artist" : "Inosha",
+            "description" : "Portrait drawing using pencil in A4",
+            "images" : [{
+                "public_id" : "samples/Vannam Art/IMG-20210927-WA0003_pibebl",
+                "url" : "https://res.cloudinary.com/vannam/image/upload/v1633348408/samples/Vannam%20Art/IMG-20210927-WA0003_pibebl.jpg"
+            }]
+        },
+    {
+            "name" : "oil painting A4",
+            "category" : "Oil painting",
+            "price" : "2000",
+            "artist" : "Inosha",
+            "description" : "Portrait drawing using pencil in A4",
+            "images" : [{
+                "public_id" : "samples/Vannam Art/IMG-20210927-WA0004_ebdja4",
+                "url" : "https://res.cloudinary.com/vannam/image/upload/v1633348395/samples/Vannam%20Art/IMG-20210927-WA0004_ebdja4.jpg"
+            }]
+        }
+    ]
